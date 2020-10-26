@@ -6,6 +6,7 @@
 ## About
 
 -  **Current Role :** Product Security Engineer, Dropbox
+-  **Spare Time:** CTF (Capture the Flag), DevSecOps advocate work, Threat Modelling, Bug Bounty
 -  **Learning :** Application Security, Red Teaming, Reverse Engineering, Binary exploitation, Bug Bounty :zap: 	
 -  **Languages :** Python, Go, Ruby, JavaScript, C++
 -  **Hobbies :** Running, obstacle races, speaking at conferences
