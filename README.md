@@ -17,3 +17,11 @@
   <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=alekkras&show_icons=true&count_private=true">
 </div>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alekkras&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+<table>
+  <tr>
+    <td>You're visitor</td>
+    <td><img src="https://profile-counter.glitch.me/alekkras/count.svg" alt="" /></td>
+  </tr>
+</table>
