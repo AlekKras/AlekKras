@@ -13,15 +13,16 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
-  <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekkras&layout=compact">
+  <img align="left" width="30%" height="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekkras&layout=compact">
   <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=alekkras&show_icons=true&count_private=true">
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=alekkras&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <table>
   <tr>
     <td>You're visitor</td>
