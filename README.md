@@ -14,7 +14,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img align="left" width="35%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekkras&layout=compact">
-  <img align="right" width="60%" height="60%" src="https://github-readme-stats.vercel.app/api?username=alekkras&show_icons=true&count_private=true">
+  <img align="right" width="60%" height="40%" src="https://github-readme-stats.vercel.app/api?username=alekkras&show_icons=true&count_private=true">
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
