@@ -18,6 +18,7 @@
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=alekkras&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 <table>
   <tr>
     <td>You're visitor</td>
@@ -25,4 +26,4 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=alekkras&rank=SECRET,SSS,SS,S,AAA,AA,A&theme=dracula&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
