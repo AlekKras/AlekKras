@@ -6,10 +6,10 @@
 ## About
 
 -  **Current Role :** Senior Security Engineer (DevSecOps) at Thinkific
--  **Spare Time:** CTF (Capture the Flag), Threat Modelling, Bug Bounty
--  **Learning :** Application Security, Red Teaming, Reverse Engineering, Binary exploitation, Bug Bounty :zap: 	
--  **Languages :** Python, Go, Ruby, JavaScript, C++
--  **Hobbies :** Running, obstacle races, speaking at conferences
+-  **Spare Time:** CTF (Capture the Flag), Bug Bounty
+-  **Learning :** Reverse Engineering, Bug Bounty :zap: 	
+-  **Languages :** Python, Go, Rust, JavaScript, C++
+-  **Hobbies :** Running obstacle races, speaking at conferences, bouldering 🧗
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
