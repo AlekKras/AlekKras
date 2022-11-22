@@ -15,7 +15,6 @@
 <div>
   <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekkras&layout=compact">
 </div>
-
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
 <table>
   <tr>
