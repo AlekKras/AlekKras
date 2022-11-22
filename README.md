@@ -14,7 +14,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div>
   <img align="left" width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alekkras&layout=compact">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=alekkras&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
