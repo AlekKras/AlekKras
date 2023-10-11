@@ -5,8 +5,8 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About
 
--  **Current Role :** Senior Security Engineer (DevSecOps) at Thinkific, Advisor for Kondukto
--  **Spare Time:** CTF (Capture the Flag), Bug Bounty 🤓
+-  **Current Role :** Principal Security Engineer at Meta, Advisor for Kondukto
+-  **Spare Time:** CTF (Capture the Flag), Bug Bounty, Acting 🤓
 -  **Learning :** Reverse Engineering, Bug Bounty :zap: 	
 -  **Languages :** Python, Go, Rust, JavaScript, C++ 🖥️
 -  **Hobbies :** Running obstacle races, speaking at conferences, bouldering 🧗
